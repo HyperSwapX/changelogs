@@ -6,8 +6,8 @@
 **Release Date:** 2025-03-01
 
 ### Deployment Links:
-- **URL:** [https://bafybeigihh2rhof672ilzjnqkhaist3g3vrau5fci5ujjtesh3v374spy4.ipfs.aleph.sh/](https://bafybeigihh2rhof672ilzjnqkhaist3g3vrau5fci5ujjtesh3v374spy4.ipfs.aleph.sh/)
-- **IPFS:** [ipfs://bafybeigihh2rhof672ilzjnqkhaist3g3vrau5fci5ujjtesh3v374spy4](ipfs://bafybeigihh2rhof672ilzjnqkhaist3g3vrau5fci5ujjtesh3v374spy4)
+- **URL:** [https://bafybeibpui255vp5ej6sotxe552hbuginnnkzg2d5o6dvggmetykm72iuu.ipfs.aleph.sh/](https://bafybeibpui255vp5ej6sotxe552hbuginnnkzg2d5o6dvggmetykm72iuu.ipfs.aleph.sh/)
+- **IPFS:** [ipfs://bafybeibpui255vp5ej6sotxe552hbuginnnkzg2d5o6dvggmetykm72iuu](ipfs://bafybeibpui255vp5ej6sotxe552hbuginnnkzg2d5o6dvggmetykm72iuu)
 
 ### Changes:
 + Swap: Automatically selects the best trade between V2 and V3.
@@ -19,6 +19,7 @@
 + Add Liquidity: Added a “Max Range” button on V3.
 + Add Liquidity: Set the default fee to Medium.
 + Add Liquidity: Improved price range display.
++ Explorer: Get token logo from Dexscreener.
 
 ---
 
