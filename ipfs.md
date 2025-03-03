@@ -1,8 +1,18 @@
 # Deployment Changelog
 
+## Version (3.12.4)
+**Release Date:** 2025-03-03
+
+### Deployment Links:
+- **URL:** [https://bafybeidd3xyhbsnebpr2tpxr3n22eliwsz6rt4mf2j6lel7tstc4v2u5xm.ipfs.aleph.sh/](https://bafybeidd3xyhbsnebpr2tpxr3n22eliwsz6rt4mf2j6lel7tstc4v2u5xm.ipfs.aleph.sh/)
+- **IPFS:** [ipfs://bafybeidd3xyhbsnebpr2tpxr3n22eliwsz6rt4mf2j6lel7tstc4v2u5xm](ipfs://bafybeidd3xyhbsnebpr2tpxr3n22eliwsz6rt4mf2j6lel7tstc4v2u5xm)
+
+### Changes:
++ Stake: Add Looped Hype staking.
+
 ---
 
-## Last Version (3.12.3)
+## Version (3.12.3)
 **Release Date:** 2025-03-01
 
 ### Deployment Links:
