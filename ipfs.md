@@ -1,5 +1,20 @@
 # Deployment Changelog
 
+## Version (3.12.7)
+**Release Date:** 2025-03-03
+
+### Deployment Links:
+- **URL:** [https://bafybeibljzun5h2hiuxehilpjzgvq6v3mh4s3iyuqbg5eqtx23c7rvo7bq.ipfs.aleph.sh/](https://bafybeibljzun5h2hiuxehilpjzgvq6v3mh4s3iyuqbg5eqtx23c7rvo7bq.ipfs.aleph.sh/)
+- **IPFS:** [ipfs://bafybeibljzun5h2hiuxehilpjzgvq6v3mh4s3iyuqbg5eqtx23c7rvo7bq](ipfs://bafybeibljzun5h2hiuxehilpjzgvq6v3mh4s3iyuqbg5eqtx23c7rvo7bq)
+
+### Changes:
++ Explorer: Added a volume graph to visualize trading activity.
++ V3 Position: Renamed V3 liquidity position to "Concentrated Liquidity Position" for better clarity.
++ Add LP V3: Updated the Fee Selector UI and logic for improved UX.
++ LP V2: Standardized V2 liquidity terminology as "AMM Standard."
+
+---
+
 ## Version (3.12.4)
 **Release Date:** 2025-03-03
 
