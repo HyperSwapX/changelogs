@@ -1,5 +1,18 @@
 # Deployment Changelog
 
+## Version (3.12.11)
+**Release Date:** 2025-03-09
+
+### Deployment Links:
+- **URL:** [https://bafybeihiysxllof6zq2ofs6xhdaidpb33cse4njdsjozzozs4ptw6mtapu.ipfs.aleph.sh/](https://bafybeihiysxllof6zq2ofs6xhdaidpb33cse4njdsjozzozs4ptw6mtapu.ipfs.aleph.sh/)
+- **IPFS:** [ipfs://bafybeihiysxllof6zq2ofs6xhdaidpb33cse4njdsjozzozs4ptw6mtapu](ipfs://bafybeihiysxllof6zq2ofs6xhdaidpb33cse4njdsjozzozs4ptw6mtapu)
+
+### Changes:
++ Point program: Points added
++ Point program: Ranking added
+
+---
+
 ## Version (3.12.7)
 **Release Date:** 2025-03-03
 
@@ -13,7 +26,6 @@
 + Add LP V3: Updated the Fee Selector UI and logic for improved UX.
 + LP V2: Standardized V2 liquidity terminology as "AMM Standard."
 
----
 
 ## Version (3.12.4)
 **Release Date:** 2025-03-03
