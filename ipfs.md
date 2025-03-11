@@ -4,12 +4,15 @@
 **Release Date:** 2025-03-09
 
 ### Deployment Links:
-- **URL:** [https://bafybeihiysxllof6zq2ofs6xhdaidpb33cse4njdsjozzozs4ptw6mtapu.ipfs.aleph.sh/](https://bafybeihiysxllof6zq2ofs6xhdaidpb33cse4njdsjozzozs4ptw6mtapu.ipfs.aleph.sh/)
-- **IPFS:** [ipfs://bafybeihiysxllof6zq2ofs6xhdaidpb33cse4njdsjozzozs4ptw6mtapu](ipfs://bafybeihiysxllof6zq2ofs6xhdaidpb33cse4njdsjozzozs4ptw6mtapu)
+- **URL:** [https://bafybeibsupsbrnfqvtqxftsbk3mflzvupvo76uqaejmgmsgamdtxx474mi.ipfs.aleph.sh/](https://bafybeibsupsbrnfqvtqxftsbk3mflzvupvo76uqaejmgmsgamdtxx474mi.ipfs.aleph.sh/)
+- **IPFS:** [ipfs://bafybeibsupsbrnfqvtqxftsbk3mflzvupvo76uqaejmgmsgamdtxx474mi](ipfs://bafybeibsupsbrnfqvtqxftsbk3mflzvupvo76uqaejmgmsgamdtxx474mi)
 
 ### Changes:
 + Point program: Points added
 + Point program: Ranking added
++ Point program: Referral link added
++ lHYPE: close phase 1 staking
++ Point Program: User tags
 
 ---
 
