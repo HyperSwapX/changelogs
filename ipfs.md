@@ -1,4 +1,18 @@
 # Deployment Changelog
+## Version (3.12.14)
+**Release Date:** 2025-03-13
+
+### Deployment Links:
+- **URL:** [https://bafybeibivrovkcbdbcrkfmc3dnphbioe4qd4zab763vrsaflf3hz2u45ha.ipfs.aleph.sh/](https://bafybeibivrovkcbdbcrkfmc3dnphbioe4qd4zab763vrsaflf3hz2u45ha.ipfs.aleph.sh/)
+- **IPFS:** [ipfs://bafybeibivrovkcbdbcrkfmc3dnphbioe4qd4zab763vrsaflf3hz2u45ha](ipfs://bafybeibivrovkcbdbcrkfmc3dnphbioe4qd4zab763vrsaflf3hz2u45ha)
+
+### Changes:
++ stHYPE: fix graphql query
++ Explorer: update charts
++ Explorer: update API route
++ Point program: improvments
+
+---
 
 ## Version (3.12.11)
 **Release Date:** 2025-03-09
