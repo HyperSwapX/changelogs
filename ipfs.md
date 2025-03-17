@@ -1,4 +1,18 @@
 # Deployment Changelog
+## Version (3.12.26)
+**Release Date:** 2025-03-17
+
+### Deployment Links:
+- **URL:** [https://bafybeigxr76awze7erwe7futlryhudq6vircnigtgukqyr6uia2fpl5nsa.ipfs.aleph.sh/](https://bafybeigxr76awze7erwe7futlryhudq6vircnigtgukqyr6uia2fpl5nsa.ipfs.aleph.sh/)
+- **IPFS:** [ipfs://bafybeigxr76awze7erwe7futlryhudq6vircnigtgukqyr6uia2fpl5nsa](ipfs://bafybeigxr76awze7erwe7futlryhudq6vircnigtgukqyr6uia2fpl5nsa)
+
+### Changes:
++ referral: implement referral link
++ referral: referral list
++ pool: info on highest APR pool
++ explorer: update charts
+
+---
 ## Version (3.12.14)
 **Release Date:** 2025-03-13
 
