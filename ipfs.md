@@ -1,4 +1,18 @@
 # Deployment Changelog
+## Version (3.12.31)
+**Release Date:** 2025-03-20
+
+### Deployment Links:
+- **URL:** [https://bafybeietrqiqyzgiqy2n342h7vzmessxr5gji7nw3rr34ov44wrpklx27a.ipfs.aleph.sh/](https://bafybeietrqiqyzgiqy2n342h7vzmessxr5gji7nw3rr34ov44wrpklx27a.ipfs.aleph.sh/)
+- **IPFS:** [ipfs://bafybeietrqiqyzgiqy2n342h7vzmessxr5gji7nw3rr34ov44wrpklx27a](ipfs://bafybeietrqiqyzgiqy2n342h7vzmessxr5gji7nw3rr34ov44wrpklx27a)
+
+### Changes:
++ add lp v3: auto-select fee tier by highest 1D volume
++ explorer: HYPE instead of WHYPE on pools info
++ stHYPE: update graphql query
++ explorer: sort by volume, apr or tvl
+
+---
 ## Version (3.12.26)
 **Release Date:** 2025-03-17
 
