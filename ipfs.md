@@ -1,4 +1,19 @@
 # Deployment Changelog
+## Version (3.12.52)
+**Release Date:** 2025-03-26
+
+### Deployment Links:
+- **URL:** [https://bafybeidpjczc2gw7laurolywkbtord2lznrtkisxuifffewd2rlg33p26u.ipfs.aleph.sh/](https://bafybeidpjczc2gw7laurolywkbtord2lznrtkisxuifffewd2rlg33p26u.ipfs.aleph.sh/)
+- **IPFS:** ipfs://bafybeidpjczc2gw7laurolywkbtord2lznrtkisxuifffewd2rlg33p26u
+
+### Changes:
++ explorer: leverage pools
++ explorer: filter on v2 & v3
++ common bases: update
++ explorer: points tags
++ remove lp: fix when out of range
++ useBestTradeV3: batch calls
+
 ## Version (3.12.31)
 **Release Date:** 2025-03-20
 
