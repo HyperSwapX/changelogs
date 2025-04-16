@@ -1,4 +1,16 @@
 # Deployment Changelog
+## Version (3.14.2)
+**Release Date:** 2025-04-16
+
+### Deployment Links:
+- **URL:** [https://bafybeihqatoiejtoih5rn36azc3zpiq2uar3n2qasob22zdmvjfiztyb7y.ipfs.aleph.sh/](https://bafybeihqatoiejtoih5rn36azc3zpiq2uar3n2qasob22zdmvjfiztyb7y.ipfs.aleph.sh/)
+- **IPFS:** ipfs://bafybeihqatoiejtoih5rn36azc3zpiq2uar3n2qasob22zdmvjfiztyb7y
+
+### Changes: 
++ Explorer: update "All" section
++ Add LP V2/V3: Single token mode
++ Explorer: best apr, volume and tvl pool tag
+---
 
 ## Version (3.13.51)
 **Release Date:** 2025-04-16
