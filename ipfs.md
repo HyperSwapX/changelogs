@@ -1,4 +1,25 @@
 # Deployment Changelog
+
+## Version (3.13.51)
+**Release Date:** 2025-04-16
+
+### Deployment Links:
+- **URL:** [https://bafybeifsxpl7xr7qvngsml65iumbozahs6d2r4xpd6xjulaaik7j5mckjy.ipfs.aleph.sh/](https://bafybeifsxpl7xr7qvngsml65iumbozahs6d2r4xpd6xjulaaik7j5mckjy.ipfs.aleph.sh/)
+- **IPFS:** ipfs://bafybeifsxpl7xr7qvngsml65iumbozahs6d2r4xpd6xjulaaik7j5mckjy
+
+### Changes: 
++ LP V3: Added interactive price chart with range selection
++ LP V3: Introduced preset options for range selection
++ LP V3: Performance optimization to reduce page lag
++ Explorer: Added generated fees chart for better fee tracking
++ Explorer: Aggregated pool cards
++ Explorer: Pair address Copy button
++ Ecosystem Point program
++ LP V3: Optimized performances
++ Fiat value: based on USDXL
++ Purrsec: explorer link
+---
+
 ## Version (3.12.52)
 **Release Date:** 2025-03-26
 
@@ -13,6 +34,8 @@
 + explorer: points tags
 + remove lp: fix when out of range
 + useBestTradeV3: batch calls
+
+---
 
 ## Version (3.12.31)
 **Release Date:** 2025-03-20
