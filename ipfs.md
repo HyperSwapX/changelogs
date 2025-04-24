@@ -1,4 +1,21 @@
 # Deployment Changelog
+## Version (4.0.14)
+**Release Date:** 2025-04-24
+
+### Deployment Links:
+- **URL:** [https://bafybeibwkoce3nat5ex2bpakz2mr23jpjpvo73xtgvbr3a7vfhhwpvzn3u.ipfs.aleph.sh/](https://bafybeibwkoce3nat5ex2bpakz2mr23jpjpvo73xtgvbr3a7vfhhwpvzn3u.ipfs.aleph.sh/)
+- **IPFS:** ipfs://bafybeibwkoce3nat5ex2bpakz2mr23jpjpvo73xtgvbr3a7vfhhwpvzn3u
+
+### Changes: 
++ node: upgrade
++ wallet-connect: Privy implemented
++ ENS: HLNames implemented
++ Add LP V3: charts improvements
++ Remove LP V3: fix
++ Add LP V3: improvements
++ Bridge: deBridge widget implemented
+---
+
 ## Version (3.14.2)
 **Release Date:** 2025-04-16
 
