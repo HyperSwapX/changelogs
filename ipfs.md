@@ -1,4 +1,16 @@
 # Deployment Changelog
+## Version (4.0.25)
+**Release Date:** 2025-04-28
+
+### Deployment Links:
+- **URL:** [https://bafybeiftg47qv6pp7556dh4zhvqta4fxsefhdwn2myxy3fygu2kij7cdd4.ipfs.aleph.sh/](https://bafybeiftg47qv6pp7556dh4zhvqta4fxsefhdwn2myxy3fygu2kij7cdd4.ipfs.aleph.sh/)
+- **IPFS:** ipfs://bafybeiftg47qv6pp7556dh4zhvqta4fxsefhdwn2myxy3fygu2kij7cdd4
+
+### Changes: 
++ Earn: deposit and earn hbHYPE
++ Ecosystem points: update
++ Add LP V3: fix fee tier selection
+---
 ## Version (4.0.14)
 **Release Date:** 2025-04-24
 
