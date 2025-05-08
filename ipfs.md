@@ -1,4 +1,15 @@
 # Deployment Changelog
+## Version (4.0.65)
+**Release Date:** 2025-05-08
+
+### Deployment Links:
+- **URL:** [https://bafybeifzg73qa6yixjptglcq6gcni52rrhy5tkqri6pqtbetevtoz46pky.ipfs.aleph.sh/](https://bafybeifzg73qa6yixjptglcq6gcni52rrhy5tkqri6pqtbetevtoz46pky.ipfs.aleph.sh/)
+- **IPFS:** ipfs://bafybeifzg73qa6yixjptglcq6gcni52rrhy5tkqri6pqtbetevtoz46pky
+
+### Changes: 
++ API: update
++ Explorer: incentives
+---
 ## Version (4.0.25)
 **Release Date:** 2025-04-28
 
